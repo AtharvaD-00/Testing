@@ -14,9 +14,15 @@ def calculate (a, b, o) :
 	elif o == '*' :
 		r = a * b								# Multiplication
 	elif o == '/' :
-		r = a / b								# Division
+		if b == 0 :
+			r = "Invalid"
+		else :
+			r = a / b							# Division
 	elif o == '%' :
-		r = a % b								# Modulus
+		if b == 0 :
+			r = "Invalid"
+		else :
+			r = a % b							# Modulus
 	else :
 		r = "Invalid"
 	return r
