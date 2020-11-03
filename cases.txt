@@ -1,0 +1,46 @@
+
+Addition +
+6 3 9 integers
+5.4 4.5 9.9 floating point numbers
+4.5 5 9.5 one integer and one floating point
+-6 4 -2 signed integers
+77777 22222 99999 large numbers
+5 0 5 second number 0
+a 0 Invalid invalid arguments
+
+Subtraction -
+6 3 3 integers
+5.4 4.5 0.9 floating point numbers
+4.5 5 -0.5 one integer and one floating point
+-6 4 -10 signed integers
+77777 22222 55555 large numbers
+5 0 5 second number 0
+a 0 Invalid invalid arguments
+
+Multiplication *
+6 3 18 integers
+5.4 4.5 24.30 floating point numbers
+4.5 5 22.5 one integer and one floating point
+-6 4 -24 signed integers
+77777 22222 1728360494 large numbers
+5 0 0 second number 0
+a 0 Invalid invalid arguments
+
+Division /
+6 3 2 integers
+5.4 4.5 1.2 floating point numbers
+4.5 5 0.9 one integer and one floating point
+-6 4 -1.5 signed integers
+77777 22222 3.5 large numbers
+5 0 Invalid second number 0
+a 0 Invalid invalid arguments
+
+Modulus %
+6 3 0 integers
+5.4 4.5 0.9 floating point numbers
+4.5 5 4.5 one integer and one floating point
+-6 4 -2 signed integers
+77777 22222 11111 large numbers
+5 0 Invalid second number 0
+a 0 Invalid invalid arguments
+

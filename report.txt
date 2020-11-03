@@ -1,0 +1,46 @@
+
+Addition :
+1. Performs correctly for integers
+2. Performs correctly for floating point numbers
+3. Performs correctly for one integer and one floating point
+4. Performs correctly for signed integers
+5. Performs correctly for large numbers
+6. Performs correctly for second number 0
+7. Performs correctly for invalid arguments
+
+Subtraction :
+1. Performs correctly for integers
+2. Performs correctly for floating point numbers
+3. Performs correctly for one integer and one floating point
+4. Performs correctly for signed integers
+5. Performs correctly for large numbers
+6. Performs correctly for second number 0
+7. Performs correctly for invalid arguments
+
+Multiplication :
+1. Performs correctly for integers
+2. Performs correctly for floating point numbers
+3. Performs correctly for one integer and one floating point
+4. Performs correctly for signed integers
+5. Performs correctly for large numbers
+6. Performs correctly for second number 0
+7. Performs correctly for invalid arguments
+
+Division :
+1. Performs correctly for integers
+2. Performs correctly for floating point numbers
+3. Performs correctly for one integer and one floating point
+4. Performs correctly for signed integers
+5. Performs correctly for large numbers
+6. Performs incorrectly for second number 0
+7. Performs correctly for invalid arguments
+
+Modulus :
+1. Performs correctly for integers
+2. Performs correctly for floating point numbers
+3. Performs correctly for one integer and one floating point
+4. Performs correctly for signed integers
+5. Performs correctly for large numbers
+6. Performs incorrectly for second number 0
+7. Performs correctly for invalid arguments
+
